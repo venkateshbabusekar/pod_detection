@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Amazon Robots</folder>
+	<filename>IMG_7047.JPG</filename>
+	<path>C:\Users\babus\Downloads\Amazon Robots\IMG_7047.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>amazon_bot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1314</xmin>
+			<ymin>1395</ymin>
+			<xmax>2740</xmax>
+			<ymax>2440</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>amazon_bot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2130</xmin>
+			<ymin>685</ymin>
+			<xmax>3253</xmax>
+			<ymax>1459</ymax>
+		</bndbox>
+	</object>
+</annotation>
